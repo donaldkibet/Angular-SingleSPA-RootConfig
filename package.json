@@ -1,0 +1,11 @@
+{
+  "name": "single-spa-root-config",
+  "version": "1.0.0",
+  "description": "single root config file containing the index html shared with other MF ",
+  "main": "index.js",
+  "author": "Donald Kibet",
+  "license": "MIT",
+  "dependencies": {
+    "npx": "^10.2.0"
+  }
+}
