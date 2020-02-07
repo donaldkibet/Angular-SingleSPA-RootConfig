@@ -6,9 +6,12 @@
   "author": "Donald Kibet",
   "license": "MIT",
   "dependencies": {
-    "npx": "^10.2.0"
+    "npx": "^10.2.2"
   },
   "scripts": {
     "start": "npx serve -s"
+  },
+  "engines": {
+    "node":"12.13.0"
   }
 }
