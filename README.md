@@ -9,6 +9,7 @@ This is a repo for the shared index.html file for the singleSPA Angular Project
 3. Restore the node_modules `npm install` [Single SPA](https://github.com/donaldkibet/SingleSPA.git)
 4. Run the application `npm run serve:single-spa`
 5. Run the single-spa-root-config file
-6. Load the url to view `http://localhost:5000` to view the Application running
+6. Load the url to view `https://secure-ravine-89405.herokuapp.com/` to view the Application running
 7. Install npx `npm install npx`
 8. Run `npx serve -s` to serve the index.html. see more info on [Single SPA HTML](http://single-spa-playground.org/playground/html-file)
+9. open devtools and set `localStorage.setItem("single-spa",true)` on the console to open devtools
